@@ -15,7 +15,7 @@ class Orang {
     }
 }
 
-$orang = new Orang("Parsa", 20, "rahasia123");
+$orang = new Orang("Akmal", 19, "Akmal123");
 echo $orang->nama . "<br>";
 echo $orang->getUmur() . "<br>";
 ?>

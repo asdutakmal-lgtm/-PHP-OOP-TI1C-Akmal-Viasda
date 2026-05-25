@@ -1,6 +1,6 @@
 <?php
 class Kuliah {
-    const NAMA_KAMPUS = "Universitas Harapan";
+    const NAMA_KAMPUS = "Politeknik Negeri Cilacap";
     const SKS_MAX = 24;
 
     public function info() {

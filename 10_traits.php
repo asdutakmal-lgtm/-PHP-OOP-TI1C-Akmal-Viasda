@@ -17,5 +17,5 @@ class Orang {
 
 $o = new Orang();
 $o->sapa();
-$o->kenalan("Parsa");
+$o->kenalan("Akmal");
 ?>

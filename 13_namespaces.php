@@ -13,6 +13,6 @@ class Mahasiswa {
     }
 }
 
-$mhs = new \Kampus\Mahasiswa("Parsa Ramadhan");
+$mhs = new \Kampus\Mahasiswa("Akmal Viasda");
 $mhs->tampil();
 ?>

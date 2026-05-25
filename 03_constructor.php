@@ -13,6 +13,6 @@ class Mahasiswa {
     }
 }
 
-$mhs = new Mahasiswa("Parsa", "12345");
+$mhs = new Mahasiswa("Akmal", "250102067");
 $mhs->tampil();
 ?>
